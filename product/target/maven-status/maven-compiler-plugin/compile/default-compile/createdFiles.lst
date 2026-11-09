@@ -1,0 +1,8 @@
+com\fortest\myorders\product\ProductRepository.class
+com\fortest\myorders\product\ProductRequest.class
+com\fortest\myorders\product\ProductApplication.class
+com\fortest\myorders\product\ProductService.class
+com\fortest\myorders\product\ProductRequest$ProductRequestBuilder.class
+com\fortest\myorders\product\Product.class
+com\fortest\myorders\product\Product$ProductBuilder.class
+com\fortest\myorders\product\ProductController.class

@@ -1,0 +1,8 @@
+com\fortest\myorders\customer\Customer$CustomerBuilder.class
+com\fortest\myorders\customer\CustomerRepository.class
+com\fortest\myorders\customer\CustomerController.class
+com\fortest\myorders\customer\CustomerRequest.class
+com\fortest\myorders\customer\Customer.class
+com\fortest\myorders\customer\CustomerApplication.class
+com\fortest\myorders\customer\CustomerRequest$CustomerRequestBuilder.class
+com\fortest\myorders\customer\CustomerService.class

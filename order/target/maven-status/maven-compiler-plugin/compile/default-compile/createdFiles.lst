@@ -1,0 +1,16 @@
+com\fortest\myorders\order\OrderItem.class
+com\fortest\myorders\order\OrderRepository.class
+com\fortest\myorders\order\OrderController.class
+com\fortest\myorders\order\Order.class
+com\fortest\myorders\order\client\Customer.class
+com\fortest\myorders\order\OrderRequest$OrderRequestBuilder.class
+com\fortest\myorders\order\client\ProductClient.class
+com\fortest\myorders\order\OrderApplication.class
+com\fortest\myorders\order\OrderItemRequest$OrderItemRequestBuilder.class
+com\fortest\myorders\order\OrderRequest.class
+com\fortest\myorders\order\client\Product.class
+com\fortest\myorders\order\OrderItem$OrderItemBuilder.class
+com\fortest\myorders\order\Order$OrderBuilder.class
+com\fortest\myorders\order\client\CustomerClient.class
+com\fortest\myorders\order\OrderService.class
+com\fortest\myorders\order\OrderItemRequest.class
